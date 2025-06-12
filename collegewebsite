@@ -1,0 +1,50 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1 align="center"><b><u>Sri Vasavi Institue of Engineering And Technology</u></b></h1> 
+<h1 align="center"><b><u>Approved by Aicte, New Delhi & Affiliated To jntuk,kakinada</u></b></h1> 
+<h1 align="center"><b>Accredited By NAAC, NBA(CSE,ECE,ME)</b></h1>
+<h2 align="center"><big><mark><b>AN AUTONOMOUS INSTITUTE</b></mark></big></h2> 
+<fieldset style="background-color: rgb(0, 132, 255);">   
+    <select name="a"align="center"style="background-color: BLUE;">   
+        <option value="sviet_ecap.html">academics</option>
+        <option value="sviet_ecap.html">sviet_ecap</option>
+        <option value="sviet_ecap.html">admission</option>
+        <option value="sviet_ecap.html">careers</option>
+        </select>
+        <fieldset>
+            <fieldset style="background-image: url('https://www.sviet.edu.in/wp-content/uploads/2023/05/svietacheivement-2.jpg');">
+                <h3><small style="color: rgb(255, 0, 0);">WE ARE NOW AUTONOMOUS_ _ _ _ _ _ </small><h3>
+                   <small style="color: rgb(0, 0, 0);">sri vasvi Institue of Engineering And Technology</small>
+
+            </fieldset>
+            <fieldset style="color: aliceblue;">
+                <table>
+                    <b>
+                        <th><h1>DEPARTMENTS</h1></th>
+                        <th><h1>INFORMATION</h1></th>
+                    </tr>
+                    <tr>
+                        <td>ECE</td>
+                    <td><a href="ECE.HTML">click here for ECE <details></details></a></td>
+                    </tr>
+                    <tr>
+                        <td>CSE</td>
+                    <td><a href="CSE.HTML">click here for CSE <details></details></a></td>
+                    </tr>
+                    <tr>
+                        <td>AIML</td>
+                    <td><a href="AIML.HTML">click here for AIML <details></details></a></td>
+                    </tr>
+                    <tr>
+                        <td>MECH</td>
+                    <td><a href="MECH.HTML">click here for MECH <details></details></a></td>
+                    </tr>
+                    <table>
+                    </fieldset>
+                </body>
+</html>
